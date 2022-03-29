@@ -1,4 +1,5 @@
 import sys
+import mechanize 
 import os 
 
 from ast import Try, excepthandler , Break

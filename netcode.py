@@ -1,5 +1,8 @@
 import os 
+import mechanize 
 import sys 
+
+Try
 from mechanize import request
 if sys.version_info[0] !=3:
     print('please do install python3')
