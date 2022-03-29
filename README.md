@@ -3,9 +3,9 @@
 out there in developing thier web applications while they are away with a mobile phone</br>
 this tool works perfectly when it comes to web networking analysis</br>
 this tool is available for </br>
-**android os( termux kernel version)
-**windows 7-10 ( 32 or 64bits) compatible with terminal
-**Linux packages( kali , ubuntu
+**android os( termux kernel version)</br>
+**windows 7-10 ( 32 or 64bits) compatible with terminal</br>
+**Linux packages( popular KALI )</br>
 
 ##FIND</br>
 **Web page header</br>
