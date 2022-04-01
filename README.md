@@ -6,7 +6,7 @@ AVAILABLE FOR </br>
 >>windows 32 or  64bits powershell</br>
 >>nuxckages( popular KALI )</br>
 
-##FIND</br>
+# FIND</br>
 >>Web page header</br>
 >>Web page encode</br>
 >>Web page cookies</br>
@@ -16,7 +16,7 @@ AVAILABLE FOR </br>
 >>Request web status code </br>
 >>Detect an hacker phish link</br>
 
-##INSTALLATION </br>
+# INSTALLATION </br>
 >>apt update </br>
 >>apt upgrade </br>
 >>pkg install python 2,3 </br>
@@ -26,13 +26,13 @@ AVAILABLE FOR </br>
 >>pip -m install requests</br>
 >>git clone https://github.com/shade234sherif/NETPHY</br>
 
-##CAUTION
-*Ensure you have a good internet connection</br>
-*avoid virtual private network connection while using this tool</br>
-*Don't run tool on a public wifi </br>
+# CAUTION
+>>Ensure you have a good internet connection</br>
+>>avoid virtual private network connection while using this tool</br>
+>>Don't run tool on a public wifi </br>
 
-##LAST WORDS</br>
-* feedbacks and updates here :www.facebook.com/cyberhacks6</br>
+# LAST WORDS</br>
+>>feedbacks and updates here :www.facebook.com/cyberhacks6</br>
 CYBERNETICS            C73eERN3TICc6</br>
 
 MADE WITH �🉐 ON GITHUB
