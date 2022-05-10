@@ -1,6 +1,5 @@
 from email.header import Header
 from http.client import REQUEST_TIMEOUT
-from ssl import VERIFY_ALLOW_PROXY_CERTS
 import sys
 import urllib
 import os 
@@ -15,6 +14,8 @@ Try;
 import request
 
 excepthandler
+print('install request by command: apt install request')
+
 sys.exit
 print("|----------------------------------------|")
 print("|----------------------------------------|")
@@ -38,24 +39,29 @@ print('\n(^_-)db(-_^)please wait while i compile the data received\n')
 
 Break 
 
-print('-------status code-------')
+print('-------STATUS CODE-------')
 x = request.get(url)
 print(x.status_code)
 excepthandler
 REQUEST_TIMEOUT
 print("failed to connect")
 
-print('-------status [ok]-------')
+print('-------STATUS [ok]-------')
 x = url
 request.get(url)
 print(x.header['ok'])
 
-print('------status condition---')
+print('------STATUS CONDITION---')
 x = url
 request.get(url)
 print(x.reason)
 
-print('----------links----------')
+print('-------CONTENT INFO---------')
+x = url 
+request.get(url)
+print(x.header['Content-Type'])
+
+print('----------LINKS----------')
 x = url 
 request.get(url)
 print(x.links)
@@ -65,12 +71,12 @@ x = url
 request.get(url)
 print(x.is_redirect)
 
-print('-------perma link--------')
+print('-------PERMA LINK--------')
 x = url
 request.get(url)
 print(x.is_permanent_redirect)
 
-print('-------cookies-----------')
+print('-------COOKIES-----------')
 x = url
 request.get(url)
 print(x.header['cookies'])
@@ -78,7 +84,7 @@ print(x.header['cookies'])
 print('------recorded logs------')
 x = url 
 request.get(url)
-print(x.json())
+print(x.header['json()'])
 
 print('-------encode------------')
 x = url
@@ -88,14 +94,19 @@ print(x.encoding)
 print('-------IP address--------')
 x = url
 request.get(url)
-print(x.ipaddress)
+print(x.header['ipaddress'])
 
-print('-------History-----------')
+print('-------HOST+SERVER-----------')
 x = url
 request.get(url)
 print(x.header['server'])
 
-print('---------via-------------')
+print('---------PROXY-------------')
 x = url
 request.get(url)
-print(x.header[VERIFY_ALLOW_PROXY_CERTS])
+print(x.header['proxy'])
+
+print('-------VIEW-------------')
+x = url 
+request.get(url)
+print(x.header['Cache-Control'])
