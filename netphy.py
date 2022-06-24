@@ -40,7 +40,8 @@ print('\n(^_-)db(-_^)please wait while i compile the data received\n')
 Break 
 
 print('-------STATUS CODE-------')
-x = request.get(url)
+x = url 
+request.get(url)
 print(x.status_code)
 excepthandler
 REQUEST_TIMEOUT
