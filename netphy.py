@@ -10,13 +10,14 @@ from webbrowser import get
 
 if sys.version_info[0] !=3:
     print('n\.......please install python3 to run tool.....\n')
+    sys.exit()
 Try;
 import request
 
 excepthandler
 print('install request by command: apt install request')
 
-sys.exit
+sys.exit()
 print("|----------------------------------------|")
 print("|----------------------------------------|")
 print('|\033[2;32m A TOOL BY CYBERHACKS\033[0;0m-------------------|')
