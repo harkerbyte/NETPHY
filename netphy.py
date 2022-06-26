@@ -112,3 +112,5 @@ print('-------VIEW-------------')
 x = url 
 request.get(url)
 print(x.header['Cache-Control'])
+
+sys.exit() 
