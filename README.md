@@ -24,6 +24,7 @@ AVAILABLE FOR </br>
 >>pkg install mechanize</br>
 >>pkg install ast</br>
 >>pip -m install requests</br>
+>> rm -rf NETPHY
 >>git clone https://github.com/shade234sherif/NETPHY</br>
 
 # CAUTION
