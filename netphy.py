@@ -11,13 +11,14 @@ from webbrowser import get
 if sys.version_info[0] !=3:
     print('n\.......please install python3 to run tool.....\n')
     sys.exit()
+
 Try;
-import request
+import requests
 
 excepthandler
 print('install request by command: apt install request')
-
 sys.exit()
+
 print("|----------------------------------------|")
 print("|----------------------------------------|")
 print('|\033[2;32m A TOOL BY CYBERHACKS\033[0;0m-------------------|')
@@ -25,6 +26,7 @@ print('|----------------------------------------|')
 print("|\033[2;32m DO FOLLOW ON FB @CYBERHACKS6\033[0;0m-----------|")
 print('|----------------------------------------|')
 print("|----------------------------------------|")
+
 
 question = input('enter any key to continue:')
 
@@ -112,5 +114,3 @@ print('-------VIEW-------------')
 x = url 
 request.get(url)
 print(x.header['Cache-Control'])
-
-sys.exit() 

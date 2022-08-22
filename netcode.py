@@ -4,7 +4,6 @@ import sys
 
 if sys.version_info[0] !=3:
     print('please do install python3')
-    sys.exit()
 
 from ast import Try, Break 
 from urllib import request
@@ -20,4 +19,3 @@ Break
 x = url 
 request.post(url)
 print(x.content)
-sys.exit()
