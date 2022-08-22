@@ -33,7 +33,7 @@ AVAILABLE FOR
 >> git clone https://github.com/shade234sherif/NETPHY
 >> cd NETPHY
 >> ls to check available scripts -- use python3 to run e.g python3 netphy.py
-
+```
 # CAUTION
 ```
 >> Ensure you have a good internet connection
@@ -42,7 +42,7 @@ AVAILABLE FOR
 ```
 ## Donate
 ```
-Kindly donate to motivate me 
+Kindly donate to motivate me
 Donor link  == https://bit.ly/3PHQqyP
 ```
 # LAST WORDS
