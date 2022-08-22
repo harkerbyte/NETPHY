@@ -40,6 +40,11 @@ AVAILABLE FOR
 >> avoid virtual private network connection while using this tool
 >> Don't run tool on a public wifi 
 ```
+## Donate
+```
+Kindly donate to motivate me 
+Donor link  == https://bit.ly/3PHQqyP
+```
 # LAST WORDS
 >> feedbacks and updates here :www.facebook.com/cyberhacks6
  CYBERNETICS            C73eERN3TICc6
