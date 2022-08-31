@@ -1,6 +1,20 @@
 ![PngItem_335017](https://user-images.githubusercontent.com/79071277/160509126-d9c11dbb-867c-4192-aaca-0cb726b3fdaa.png)
 # NETPHY
 
+_Social buttons_
+
+[![shade234sherif - NETPHY ](https://img.shields.io/static/v1?label=shade234sherif&message=NETPHY+&color=blue&logo=github)](https://github.com/shade234sherif/NETPHY  "Go to GitHub repo")
+[![stars - NETPHY ](https://img.shields.io/github/stars/shade234sherif/NETPHY?style=social)](https://github.com/shade234sherif/NETPHY )
+[![forks - NETPHY ](https://img.shields.io/github/forks/shade234sherif/NETPHY?style=social)](https://github.com/shade234sherif/NETPHY )
+
+
+_Repo metadata_
+
+
+[![GitHub release](https://img.shields.io/github/release/shade234sherif/NETPHY?include_prereleases=&sort=semver&color=blue)](https://github.com/shade234sherif/NETPHY/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![issues - NETPHY ](https://img.shields.io/github/issues/shade234sherif/NETPHY )](https://github.com/shade234sherif/NETPHY/issues)
+
 AVAILABLE FOR 
 ```
 >> Android terminal emulators
@@ -40,10 +54,7 @@ AVAILABLE FOR
 >> avoid virtual private network connection while using this tool
 >> Don't run tool on a public wifi 
 ```
-## Donate
-```
-Kindly donate to motivate me
-Donor link  == https://bit.ly/3PHQqyP
+
 ```
 # LAST WORDS
 >> feedbacks and updates here :www.facebook.com/cyberhacks6
