@@ -55,9 +55,11 @@ AVAILABLE FOR
 >> Don't run tool on a public wifi 
 ```
 
-```
+
 # LAST WORDS
->> feedbacks and updates here :www.facebook.com/cyberhacks6
+
+* <a href=https://facebook.com/cyberhacks6>Facebook page</a>
+* <a href=https://facebook.com/shade234sherif>Main fb acc</a></br>
  CYBERNETICS            C73eERN3TICc6
 
-MADE WITH �🉐 ON GITHUB
+MADE WITH ❤
