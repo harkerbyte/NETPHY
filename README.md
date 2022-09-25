@@ -58,8 +58,13 @@ AVAILABLE FOR
 
 # LAST WORDS
 
-* <a href=https://facebook.com/cyberhacks6>Facebook page</a>
-* <a href=https://facebook.com/shade234sherif>Main fb acc</a></br>
+<a href =https://facebook.com/shade234sherif>![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)</a>
+
+<a href = https://facebook.com/cyberhacks6>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+
+
+```
  CYBERNETICS            C73eERN3TICc6
 
 MADE WITH ❤
+```
